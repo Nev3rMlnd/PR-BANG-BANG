@@ -10,7 +10,7 @@
   <!-- <link rel="stylesheet" href="./Style/design.css"> -->
   <title>Sign In!</title>
    <style> 
-  /* mali toh lahat*/
+  /* mali toh lahat!*/
     *{
       padding: 0;
       margin: 0;
