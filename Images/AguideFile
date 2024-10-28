@@ -1,0 +1,9 @@
+ -> The System Contains 5 php files 
+     --> WelcomePage -- the  main page where the website provide details
+     --> Sign_in -- user's can create account  
+     --> Log_in -- people can log in their account
+     --> db_connection -- for the connection of sql DATABASE
+     --> data_insertion -- for inserting the data from log_in or sign_in page
+ 
+ -> 
+ -> 

@@ -1,0 +1,49 @@
+/* - FOR ALL FILES - */
+*{
+   padding: 0;
+   margin: 0;
+}
+body{
+   background-image: linear-gradient(rgba(2, 2, 2, 0.612), rgba(0, 0, 0, 0.845)), url(/Images/—Pngtree—3d\ school\ themed\ background.jpg);
+   background-repeat: no-repeat;
+   background-position: center;
+   background-attachment: fixed;
+   background-size: cover;
+}
+/* - navigation bar - */
+nav{
+   display: flex;
+   align-items: center;
+   justify-content: space-between;
+   margin-top: 5px;
+      
+}  
+nav h2{
+   margin: 0 0 0 10px;
+   letter-spacing: 3px;
+   color: white;
+}
+nav li, nav a{
+   text-decoration: none;
+   list-style: none;
+}
+nav a{
+   margin: 0 30px;
+   letter-spacing: 3px;
+   color: white ;
+}
+
+@media only screen and(min-width: 718px){
+ 
+}
+.wrapper-signIn{
+   display: flex; justify-content: center;
+   margin-top: 50px;
+}
+.wrapper-signIn > .container{
+   background-color: rgba(130, 122, 172, 0.922); color: rgb(0, 0, 0);
+   border-radius: 20px; border: 1px solid  black;
+   box-shadow: 0 -1px 10px black; backdrop-filter: blur(20px);
+   width: 300px; padding: 20px;
+}
+
